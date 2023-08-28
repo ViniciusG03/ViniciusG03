@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius G. 👋
 
-- 🔭 Futuro Front-end Dev
+- 🔭 Futuro Backend Dev
 - 🌱 Estou estudando JavaScript e MySQL
 - 📫 contate-me no e-mail: viniciusgomes.33mes@gmail.com
 
