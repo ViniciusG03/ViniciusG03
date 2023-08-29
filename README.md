@@ -1,12 +1,14 @@
-### Olá! Eu sou o Vinicius G. 👋
+<div>
+<h1 align="center">Olá! Eu sou o Vinicius G. 👋</h1>
 
 - 🔭 Futuro Backend Dev
 - 🌱 Estou estudando JavaScript e MySQL
 - 📫 contate-me no e-mail: viniciusgomes.33mes@gmail.com
+</div>
 
 <div>
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=viniciusg03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusg03&layout=compact&langs_count=16&theme=radical"/>
+ <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=viniciusg03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusg03&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
