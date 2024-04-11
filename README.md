@@ -3,7 +3,6 @@
 <h1 align="center">Olá! Eu sou o Vinicius G. 👋</h1>
 
 - 🔭 Futuro Backend Dev
-- 🌱 Estou estudando JavaScript e MySQL
 - 📫 contate-me no e-mail: viniciusgomes.33mes@gmail.com
 </div>
 
@@ -17,6 +16,9 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Vini-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Vini-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vini-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
  ## 
