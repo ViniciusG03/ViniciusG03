@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Lavorato**
 
-- 🌱 I’m currently learning **Angular and Spring**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://viniciusg03.github.io/portfolio/](https://viniciusg03.github.io/portfolio/)
 
